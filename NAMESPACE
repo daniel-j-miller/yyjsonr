@@ -24,4 +24,4 @@ export(write_ndjson_str)
 export(yyjson_read_flag)
 export(yyjson_version)
 export(yyjson_write_flag)
-useDynLib(yyjsonr, .registration=TRUE)
+
