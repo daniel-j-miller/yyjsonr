@@ -10,7 +10,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#include <zlib.h>
+#include "zlib.h"
 
 #include "yyjson.h"
 #include "R-yyjson-parse.h"
