@@ -32,7 +32,7 @@
 #define ZLIB_H
 
 #ifdef ZLIB_BUILD
-#  include <zconf.h>
+#  include "zconf.h"
 #else
 # include "zconf.h"
 #endif
